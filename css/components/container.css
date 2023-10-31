@@ -1,0 +1,18 @@
+.container {
+  width: 80%;
+}
+
+.container-banner {
+  padding: 100px auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.container-how {
+  padding: 100px auto;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
